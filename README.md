@@ -14,5 +14,3 @@ fcc.emit('evtName1', parm)
 fcc.call('evtName1', parm).then(val => val)
 
 ```
-
-马马虎虎，不要在意细节
